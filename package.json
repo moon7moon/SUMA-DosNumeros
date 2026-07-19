@@ -1,0 +1,15 @@
+{
+  "name": "sumas-2-num",
+  "version": "1.0.0",
+  "description": "Aplicación web que consume una API para sumar dos números",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Gabriela Montserrat Téllez Cerón",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
+
